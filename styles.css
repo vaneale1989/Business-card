@@ -1,0 +1,26 @@
+.profile-pic {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:#2b2839;
+    background-color: #99e2b4;
+    border-bottom: 8px solid #b68abd;
+}
+
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: bold;
+    font-size: 25px;
+}
